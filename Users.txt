@@ -1,0 +1,5 @@
+Id , Name , Plate Number , carColor
+26 / Ahmed elkady / abc 2022 / red
+98 / Ahmed saed / hgb254 / black
+36 / Ahmed farag / ahg485 / white
+51 / Ahmed raoof / sdlkfj589 / blue
